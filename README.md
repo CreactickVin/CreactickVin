@@ -1,5 +1,5 @@
 - @CreactickVin
-- aspiring ce student
+- aspiring CE student
 - Interested in collobration, Teamwork
 
 <!---
