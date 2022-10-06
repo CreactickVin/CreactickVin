@@ -1,6 +1,6 @@
 - @CreactickVin
 - aspiring CE student
-- Interested in collobration, Teamwork
+- Interested in collabration, Teamwork
 
 <!---
 CreactickVin/CreactickVin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
